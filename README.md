@@ -2,7 +2,8 @@
 
 An alias script to compile and execute kotlin with ease !
 
-<Steps to follow>
+Steps to follow
+
 
 1. Download ktk.sh and save at your desired location
 
@@ -12,7 +13,8 @@ An alias script to compile and execute kotlin with ease !
 
 3. reload bash & done
 
-<Syntax>
+Syntax
+
  
 Compile & Run:
   kt file.kt
