@@ -16,11 +16,11 @@ Steps to follow
 Syntax
 
  
-Compile & Run:
-  kt file.kt
-  
-Kotlin shell:
-  kt
+  Compile & Run:
+    kt file.kt
+  
+  Kotlin shell:
+    kt
 
   
 
